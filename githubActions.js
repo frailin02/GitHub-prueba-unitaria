@@ -1,4 +1,4 @@
 
 module.exports = function hola() {
-    return 'hola';
+    return 'hol';
   };
